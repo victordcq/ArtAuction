@@ -9,6 +9,14 @@ naam:
 	kevin.picalausa@odisee.be
 passwords: Azerty123
 ```
+
+## locations: 
+```
+Routes: /routes/web.php
+Views (blade): /resources/views
+Models: /app
+Controllers: /app/Http/Controllers
+```
 # Installation 
 ## Vendors
 
