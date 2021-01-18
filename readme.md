@@ -1,14 +1,15 @@
-#Logins
+# Art Auction
+# Logins
 Some seeded logins, to test out functionality
+```
 naam: 
 	victor.declercq@student.odisee.be
 	joris.maervoet@odisee.be
 	jan.janssens@odisee.be
 	kevin.picalausa@odisee.be
 passwords: Azerty123
-
-# Installation Art shop
-
+```
+# Installation 
 ## Vendors
 
 go to map ArtAuction
